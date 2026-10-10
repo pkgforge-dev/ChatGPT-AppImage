@@ -1,10 +1,10 @@
 <div align="center">
 
-# ChatGPT-AppImage 🐧
+# ChatGPT-Desktop-AppImage 🐧
 
-[![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/ChatGPT-AppImage/total?logo=github&label=GitHub%20Downloads)](https://github.com/pkgforge-dev/ChatGPT-AppImage/releases/latest)
-[![CI Build Status](https://github.com/pkgforge-dev/ChatGPT-AppImage/actions/workflows/appimage.yml/badge.svg)](https://github.com/pkgforge-dev/ChatGPT-AppImage/releases/latest)
-[![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/ChatGPT-AppImage)](https://github.com/pkgforge-dev/ChatGPT-AppImage/releases/latest)
+[![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/ChatGPT-Desktop-AppImage/total?logo=github&label=GitHub%20Downloads)](https://github.com/pkgforge-dev/ChatGPT-Desktop-AppImage/releases/latest)
+[![CI Build Status](https://github.com/pkgforge-dev/ChatGPT-Desktop-AppImage/actions/workflows/appimage.yml/badge.svg)](https://github.com/pkgforge-dev/ChatGPT-Desktop-AppImage/releases/latest)
+[![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/ChatGPT-Desktop-AppImage)](https://github.com/pkgforge-dev/ChatGPT-Desktop-AppImage/releases/latest)
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0de7bd75-fd58-44f0-ba5f-74bad7261a3b" width="128" />
@@ -13,7 +13,7 @@
 
 | Latest Stable Release | Upstream URL |
 | :---: | :---: |
-| [Click here](https://github.com/pkgforge-dev/ChatGPT-AppImage/releases/latest) | [Click here](https://learn.chatgpt.com/docs/linux/linux-app) |
+| [Click here](https://github.com/pkgforge-dev/ChatGPT-Desktop-AppImage/releases/latest) | [Click here](https://learn.chatgpt.com/docs/linux/linux-app) |
 
 </div>
 
